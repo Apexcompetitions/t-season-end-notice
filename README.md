@@ -1,1 +1,1 @@
-# bb-competition-over-email
+# t-season-end-notice
